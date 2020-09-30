@@ -85,3 +85,4 @@ In practice, to be listed, you'll need to:
 and send a pull request with these changes.
 
 .. _Jekyll: http://jekyllrb.com/
+  and enjoy
